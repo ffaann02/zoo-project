@@ -8,3 +8,5 @@ class Zoo:
             return 150
         elif age >= 60:
             return 100
+        else:
+            return 0 # add below zero age case
